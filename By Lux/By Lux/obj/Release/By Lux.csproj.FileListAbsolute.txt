@@ -1,0 +1,11 @@
+C:\Users\Edcarlos\Documents\Visual Studio 2015\Projects\By Lux\By Lux\bin\Release\By Lux.exe.config
+C:\Users\Edcarlos\Documents\Visual Studio 2015\Projects\By Lux\By Lux\bin\Release\By Lux.exe
+C:\Users\Edcarlos\Documents\Visual Studio 2015\Projects\By Lux\By Lux\bin\Release\By Lux.pdb
+C:\Users\Edcarlos\Documents\Visual Studio 2015\Projects\By Lux\By Lux\bin\Release\EloBuddy.dll
+C:\Users\Edcarlos\Documents\Visual Studio 2015\Projects\By Lux\By Lux\bin\Release\EloBuddy.SDK.dll
+C:\Users\Edcarlos\Documents\Visual Studio 2015\Projects\By Lux\By Lux\bin\Release\SharpDX.dll
+C:\Users\Edcarlos\Documents\Visual Studio 2015\Projects\By Lux\By Lux\bin\Release\SharpDX.Direct3D9.dll
+C:\Users\Edcarlos\Documents\Visual Studio 2015\Projects\By Lux\By Lux\bin\Release\Newtonsoft.Json.dll
+C:\Users\Edcarlos\Documents\Visual Studio 2015\Projects\By Lux\By Lux\obj\Release\By Lux.exe
+C:\Users\Edcarlos\Documents\Visual Studio 2015\Projects\By Lux\By Lux\obj\Release\By Lux.pdb
+C:\Users\Edcarlos\Documents\Visual Studio 2015\Projects\By Lux\By Lux\obj\Release\By Lux.csprojResolveAssemblyReference.cache
